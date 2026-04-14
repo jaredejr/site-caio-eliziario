@@ -47,7 +47,7 @@ export default function About() {
             {/* Assinatura ou Destaque */}
             <div className="border-l-2 border-secondary pl-6 py-2">
               <p className="text-xl text-primary font-light italic">
-                "Nossa maior vitória é a tranquilidade dos nossos clientes."
+                &quot;Nossa maior vitória é a tranquilidade dos nossos clientes.&quot;
               </p>
             </div>
             

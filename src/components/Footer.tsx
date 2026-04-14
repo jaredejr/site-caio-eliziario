@@ -70,7 +70,7 @@ export default function Footer() {
                 <strong>WhatsApp:</strong> <a href="https://wa.me/5511975335025?text=Olá,%20gostaria%20de%20solicitar%20um%20atendimento%20jurídico." className="hover:text-secondary transition-colors">(11) 97533-5025</a>
               </p>
               <p>
-                <strong>E-mail:</strong> <a href="mailto:contato@eliziarioadv.com.br" className="hover:text-secondary transition-colors">contato@eliziarioadv.com.br</a>
+              <strong>E-mail:</strong> <a href="mailto:contato@eliziarioadv.com.br?subject=Contato%20via%20Site" className="hover:text-secondary transition-colors">contato@eliziarioadv.com.br</a>
               </p>
               <p>
               <strong>OAB/SP:</strong> 398.398
