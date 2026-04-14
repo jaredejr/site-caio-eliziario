@@ -64,7 +64,7 @@ export default function Footer() {
             <h3 className="text-white font-medium tracking-wider uppercase text-sm mb-6">Informações de Contato</h3>
             <div className="space-y-4 text-sm font-light">
               <p>
-                <strong>Endereço:</strong> Rua Funchal, 418, 35º andar, Vila Olímpia, São Paulo - SP, 04551-060
+              <strong>Endereço:</strong> <a href="https://www.google.com/maps/search/?api=1&query=R.+da+Mooca,+2188+-+Mooca,+S%C3%A3o+Paulo+-+SP,+03104-002" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors">R. da Mooca, 2188, 1º andar - Mooca - São Paulo - SP, 03104-002</a>
               </p>
               <p>
                 <strong>WhatsApp:</strong> <a href="https://wa.me/5511975335025?text=Olá,%20gostaria%20de%20solicitar%20um%20atendimento%20jurídico." className="hover:text-secondary transition-colors">(11) 97533-5025</a>
@@ -73,7 +73,7 @@ export default function Footer() {
                 <strong>E-mail:</strong> <a href="mailto:contato@eliziarioadv.com.br" className="hover:text-secondary transition-colors">contato@eliziarioadv.com.br</a>
               </p>
               <p>
-                <strong>OAB/SP:</strong> 454.484
+              <strong>OAB/SP:</strong> 398.398
               </p>
             </div>
           </div>
